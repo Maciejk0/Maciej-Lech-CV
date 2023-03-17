@@ -23,7 +23,7 @@ Dodatkowo chciałbym zaprezentować, niektóre ze stron jakie wyszły spod mojeg
 ▶ [bearte.pl](https://bearte.pl/)\
 ▶ [iwonapodlasinska.com](https://iwonapodlasinska.com/)\
 ▶ [guziecbarbershop.pl](https://guziecbarbershop.pl/)\
-▶ [www.inter-welm.pl](https://www.inter-welm.pl/)\
+▶ [inter-welm.pl](https://www.inter-welm.pl/)\
 ▶ [kidsarena.pl](https://kidsarena.pl/)\
 ▶ [kursnawozek.pl](https://kursnawozek.pl/)\
 ▶ [alkoholezagrosze.pl](https://alkoholezagrosze.pl/)\
@@ -40,3 +40,10 @@ Dodatkowo chciałbym zaprezentować, niektóre ze stron jakie wyszły spod mojeg
 ▶ [unifloors.pl](https://unifloors.pl/)\
 ▶ [kancelariajankowska.pl](https://kancelariajankowska.pl/)\
 ▶ [after-rave.com](https://after-rave.com/)
+▶ [dotspice.com](https://dotspice.com/)
+▶ [zvinna.pl](https://zvinna.pl/)
+▶ [mobilnaszkolajezykowa.pl](https://mobilnaszkolajezykowa.pl/)
+▶ [adwokat-wozniak.com](https://adwokat-wozniak.com/)
+▶ [beatarybak.com](https://beatarybak.com/)
+▶ [glowicecezar.pl](https://glowicecezar.pl/)
+▶ [efarby.com.pl](https://efarby.com.pl/)
